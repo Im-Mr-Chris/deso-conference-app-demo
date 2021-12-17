@@ -2,15 +2,6 @@
 
 This application is purely a kitchen-sink demo of the Ionic Framework and Angular.
 
-**There is not an actual Ionic Conference at this time.** This project is just to show off Ionic components in a real-world application. Please go through the steps in [CONTRIBUTING](https://github.com/ionic-team/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) before submitting an issue.
-
-## React and Vue Versions
-
-We've built versions of this Conference app in React and Vue for developers that would prefer to use one of those framework options:
-
-[https://github.com/ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app)
-
-[https://github.com/ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -33,10 +24,14 @@ We've built versions of this Conference app in React and Vue for developers that
 
 _Note: See [How to Prevent Permissions Errors](https://docs.npmjs.com/getting-started/fixing-npm-permissions) if you are running into issues when trying to install packages globally._
 
+## React and Vue Versions
+
+[https://github.com/ionic-team/ionic-react-conference-app](https://github.com/ionic-team/ionic-react-conference-app)
+
+[https://github.com/ionic-team/ionic-vue-conference-app](https://github.com/ionic-team/ionic-vue-conference-app)
+
+
 ## Contributing
-
-See [CONTRIBUTING.md](https://github.com/ionic-team/ionic-conference-app/blob/master/.github/CONTRIBUTING.md) :tada::+1:
-
 
 ## App Preview
 
